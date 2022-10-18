@@ -5,7 +5,9 @@
 
 This application generates a random password based on criteria selected by the individual using the app.
 
-
+AS AN employee with access to sensitive data
+I WANT to randomly generate a password that meets certain criteria
+SO THAT I can create a strong password that provides greater security
 
 ## Table of Contents
 
@@ -38,12 +40,14 @@ List of collaborators:
 N/A
 
 
-Third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+Third-party assets that require attribution, 
 https://github.com/coding-boot-camp/friendly-parakeet
+https://github.com/tosh-skyler/unit-3-password-generator
 https://github.com/hoffman1200/Homework-3/blob/master/index.html
 https://github.com/TiffanyCasey/Password-Generator
 
 Tutorials:
+https://dev.to/code_mystery/random-password-generator-using-javascript-6a
 https://www.youtube.com/watch?v=duNmhKgtcsI
 https://stackoverflow.com/questions/59340866/random-password-generator-javascript-not-working
 

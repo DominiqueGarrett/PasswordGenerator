@@ -9,8 +9,6 @@ This application generates a random password based on criteria selected by the i
 
 ## Table of Contents
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)

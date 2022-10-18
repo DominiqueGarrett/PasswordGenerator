@@ -40,9 +40,12 @@ https://github.com/coding-boot-camp/friendly-parakeet
 
 Third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 https://github.com/coding-boot-camp/friendly-parakeet
+https://github.com/hoffman1200/Homework-3/blob/master/index.html
+https://github.com/TiffanyCasey/Password-Generator
 
 Tutorials:
 https://www.youtube.com/watch?v=duNmhKgtcsI
+https://stackoverflow.com/questions/59340866/random-password-generator-javascript-not-working
 
 ## License
 

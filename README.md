@@ -35,7 +35,7 @@ THEN the password is written to the page.
 ## Credits
 
 List of collaborators:
-https://github.com/coding-boot-camp/friendly-parakeet
+N/A
 
 
 Third-party assets that require attribution, list the creators with links to their primary web presence in this section.

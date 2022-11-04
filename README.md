@@ -1,5 +1,7 @@
 # PasswordGenerator
  Module 3 Challenge Assignment: # 03 JavaScript: Password Generator
+ 
+ Deployed Application: https://dominiquegarrett.github.io/PasswordGenerator/
 
 ## Description
 
